@@ -2,24 +2,24 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
+title: Sign In
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2017-12-21
 labels:
   - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Rails
+  - Bootstrap
+summary: An app created using Ruby On Rails that replicates a Twitter experience.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/homepage.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Sign In is a web application from the website https://www.railstutorial.org/book. This project helped teach me about Web Development, with various frameworks and libraries such as Rails and Boosstrap. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Sign In is implemented using [Rails](http://rubyonrails.org/), a Ruby framework for web development. I initially took an intrest in Ruby from its simplicity, its syntax is what drew me in. Rails was an extension of that thought process, the ease that it took to get a working Web Stack going was second to none.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+I learned a lot about this project, and web development in general. Before this project, I only had the slightest idea of how to make a basic HTML page, with no idea how to actually access that website from a server..
+
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://github.com/jjnaga/sample_app"><i class="large github icon"></i>theVacay/vacay</a>
