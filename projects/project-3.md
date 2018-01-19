@@ -2,60 +2,26 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
+title: QuickNote
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Ruby
+  - Scripting
+  - Terminal
+summary: A quick note taking app in the Terminal.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/background.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+QuickNote is a script made in Python. While the app itself isn't to complicated, I used this experieince to learn greatly about Terminal and how Unix Operating Systems worked. 
 
-To give you a flavor of the game, here is an excerpt from one run:
+I went into this project with the goal of learning how to use the Terminal effectively. I also saw that black box as something that only hackers use, but as I learned more and more about Terminal, and by extension, Unix, I fell in love with it. 
 
-<hr>
+This project was to help me gain knowledge for ICS 215, which was a Scripting class. I wanted a quick way to take notes using the Terminal. The hardest part for me I think was learning about scripts in general. The actual code isn't to complex, Python makes it very easy to append text to an existing file. The tricky part is getting the program to work just by calling it. I had to learn how paths work in the Terminal, and it completely opened my eyes to the possibilities of Terminal.
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+From this experience, I learned a great deal, and hope to expand my knowledge by creating a script that is incredibly useful.
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/jjnaga/QuickNote"><i class="large github icon "></i>jjnaga/QuickNote</a>
 
