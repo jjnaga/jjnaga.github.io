@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/raspberry.png
 title: NFCInfo
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
