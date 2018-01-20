@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/raspberry.png
+image: images/rails.png
 title: Sign In
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
